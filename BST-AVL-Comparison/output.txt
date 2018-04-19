@@ -1,0 +1,22 @@
+
+Name: Tellon Smith
+Course: CS 3013 - Advanced Structures and Algorithms, Spring 16, Dr. Johnson
+Program Assignment: #4
+Due Date: Thursday, Apr. 14, 2016, 2PM
+Purpose: This program inserts 2000 randomly generated intergers into a BST
+and an AVL tree and then calculates the node height, the average node height
+and depth.
+
+Welcome to the Binary Search Tree Comparison Program!
+
+----------------------------------------------------------------------
+                 Binary Search Tree Comparison Program
+----------------------------------------------------------------------
+Height of BST: 993
+Height of AVL tree: 11
+Average node depth of BST: 338.093
+Average node depth of AVL tree: 9.0325
+Average node height of BST: 337.2
+Average node height of AVL tree: 1.0065
+
+Thank you for using the Binary Search Tree Comparison Program... Goodbye!
